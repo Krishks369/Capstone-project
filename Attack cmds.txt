@@ -1,0 +1,5 @@
+Invoke-ReflectiveAssembly -Option1 Value1
+
+Invoke-ReflectiveExecution -Argument1 Value1 -Argument2 Value2
+
+Invoke-ReflectivePe -Parameter1 Value1 -Parameter2 Value2
